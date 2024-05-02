@@ -7,7 +7,7 @@ import {version} from '../package.json'
     <div class="text-center text-xs font-light">
       V{{ version }} | Star on
       <a href="https://github.com/Jazee6/cloudflare-ai-web" target="_blank"
-         class="text-neutral-500 hover:text-neutral-900 underline dark:text-neutral-400 dark:hover:text-neutral-300">GitHub</a>
+         class="text-neutral-500 hover:text-neutral-900 underline dark:text-neutral-400 dark:hover:text-neutral-300">乌托邦综合服务平台 & CF</a>
     </div>
   </footer>
 </template>
